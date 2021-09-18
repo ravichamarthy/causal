@@ -1,0 +1,999 @@
+age,gender,incident_cause,days_to_incident,claim_area,police_report,claim_type,total_policy_claims,fraudulent,claim_amount
+46,Female,Other causes,5460,Auto,Yes,Material and injury,1,Yes,10113.79351
+33,Female,Driver error,875,Auto,Unknown,Injury only,3,No,29392.1525
+45,Female,Other driver error,2468,Auto,No,Material only,1,Yes,19631.41226
+56,Female,Crime,1517,Auto,No,Material only,1,Yes,50254.26757
+23,Female,Driver error,202,Auto,No,Material and injury,1,Yes,71171.24771
+64,Female,Driver error,3801,Home,No,Injury only,1,Yes,6488.675143
+40,Female,Other causes,1897,Auto,Unknown,Injury only,1,No,63665.1686
+18,Female,Other driver error,3,Auto,No,Material only,1,Yes,19357.11406
+70,Female,Driver error,1859,Auto,No,Material only,1,Yes,18774.89731
+78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,56134.30537
+78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,32006.04289
+26,Female,Other driver error,1203,Auto,Unknown,Material only,1,Yes,17273.48103
+71,Female,Driver error,6117,Auto,Unknown,Injury only,1,No,902.9890279
+67,Female,Crime,3386,Auto,Unknown,Material only,1,No,9953.09151
+28,Female,Driver error,5,Auto,Unknown,Material only,1,No,14081.78025
+49,Female,Crime,6550,Auto,No,Material only,4,Yes,10333.18675
+44,Female,Natural causes,891,Auto,No,Material and injury,1,Yes,5722.181313
+77,Female,Other causes,3,Auto,Unknown,Injury only,2,No,97503.72506
+75,Female,Driver error,8260,Auto,Yes,Injury only,1,No,9834.231732
+25,Male,Natural causes,6,Auto,Unknown,Material only,1,Yes,67023.35097
+49,Female,Crime,7447,Auto,No,Material only,1,Yes,24508.0605
+40,Female,Driver error,441,Auto,No,Injury only,1,No,46939.06173
+27,Female,Driver error,491,Home,Yes,Material only,1,Yes,20780.9161
+28,Female,Crime,1045,Auto,Unknown,Material only,1,Yes,19829.92313
+30,Female,Other driver error,7,Auto,Unknown,Material and injury,1,No,89814.31068
+54,Female,Natural causes,4124,Auto,No,Material only,3,No,20821.52369
+64,Female,Driver error,2603,Auto,Yes,Material only,1,Yes,10567.2806
+49,Female,Other driver error,1431,Auto,Yes,Material and injury,5,Yes,11086.31769
+55,Female,Natural causes,622,Auto,No,Material only,3,Yes,13039.28373
+18,Male,Driver error,4,Home,No,Material and injury,1,Yes,5542.742381
+77,Male,Other driver error,8246,Auto,Unknown,Material only,1,Yes,5120.267542
+54,Female,Other causes,1600,Auto,No,Injury only,4,Yes,5923.839692
+33,Female,Other driver error,389,Auto,Unknown,Material and injury,1,No,64082.45124
+32,Female,Driver error,7,Auto,Unknown,Material and injury,1,No,36998.61858
+39,Female,Other driver error,191,Auto,Yes,Injury only,1,No,80452.59181
+67,Female,Driver error,10991,Auto,Unknown,Material only,1,Yes,62514.81587
+40,Female,Crime,181,Auto,Unknown,Injury only,1,No,31188.60411
+64,Female,Driver error,2791,Auto,Unknown,Injury only,1,Yes,62867.58023
+68,Female,Other causes,3310,Auto,No,Material only,1,Yes,10282.21726
+25,Female,Natural causes,8,Auto,No,Material only,1,No,4265.510188
+36,Female,Crime,2363,Auto,Unknown,Material only,1,No,71112.20276
+59,Female,Crime,2572,Auto,No,Material only,2,Yes,17630.66656
+27,Female,Other causes,1147,Auto,Unknown,Material and injury,4,Yes,21575.45954
+67,Female,Crime,3386,Auto,Unknown,Material only,1,Yes,6719.922336
+18,Male,Driver error,2,Home,Unknown,Material and injury,4,Yes,8890.746021
+74,Female,Natural causes,10789,Auto,No,Material only,1,Yes,1950.169744
+55,Female,Natural causes,622,Auto,No,Material only,3,Yes,42298.0226
+42,Female,Other driver error,1487,Auto,Unknown,Material and injury,1,No,15444.50911
+37,Female,Other causes,2750,Auto,Yes,Material and injury,1,No,70276.24645
+72,Female,Other causes,4515,Auto,No,Material only,1,Yes,75426.06243
+47,Female,Crime,2335,Auto,No,Material only,1,Yes,9227.995954
+36,Female,Other driver error,2456,Auto,No,Material only,1,No,79825.94614
+72,Female,Driver error,2855,Auto,No,Injury only,1,No,21546.81673
+36,Female,Other driver error,2116,Auto,No,Injury only,3,No,69828.31786
+58,Male,Crime,8285,Auto,No,Material only,1,Yes,94174.64154
+78,Female,Driver error,3268,Auto,No,Injury only,6,Yes,10846.67531
+69,Female,Driver error,5146,Auto,No,Material only,1,Yes,2430.438388
+18,Female,Driver error,7,Auto,No,Material only,1,Yes,8132.23982
+73,Female,Driver error,4196,Auto,No,Material only,4,Yes,16757.79731
+73,Female,Other causes,5728,Auto,No,Material only,1,Yes,17522.81504
+49,Male,Natural causes,1089,Auto,No,Material only,1,No,54453.8674
+26,Female,Other driver error,1203,Auto,Unknown,Material only,1,Yes,12748.90863
+63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,21246.43351
+36,Female,Other driver error,2116,Auto,No,Injury only,3,No,51280.20993
+75,Female,Driver error,5708,Auto,Yes,Material and injury,1,Yes,29340.18091
+57,Female,Natural causes,449,Auto,No,Injury only,3,Yes,18928.61886
+41,Male,Crime,2120,Auto,Yes,Material only,1,Yes,17114.794
+76,Female,Crime,4843,Home,No,Material only,1,No,58217.45028
+67,Female,Other causes,4551,Auto,Unknown,Material only,1,Yes,10453.72609
+37,Female,Other driver error,2930,Auto,No,Material and injury,1,No,78993.70856
+45,Female,Crime,1470,Auto,No,Material only,1,Yes,5635.267089
+29,Male,Crime,1274,Auto,No,Material only,8,Yes,12328.39249
+69,Female,Other driver error,2847,Auto,No,Material and injury,1,No,12642.15582
+21,Female,Driver error,198,Auto,Unknown,Material only,1,Yes,10078.3754
+27,Male,Other causes,420,Auto,Unknown,Injury only,1,Yes,73462.81649
+45,Male,Other driver error,4031,Auto,No,Material only,4,Yes,40064.33556
+66,Female,Crime,10163,Auto,Unknown,Material and injury,1,Yes,9104.25382
+73,Female,Driver error,4196,Auto,No,Material only,4,No,21885.75632
+28,Female,Natural causes,203,Home,No,Material only,1,Yes,17540.27224
+25,Female,Natural causes,8,Auto,No,Material only,1,Yes,9723.786018
+63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,5418.331798
+28,Female,Driver error,5,Auto,Unknown,Material only,1,Yes,576.4353722
+54,Female,Other driver error,2620,Auto,Unknown,Injury only,1,Yes,3246.472233
+44,Female,Crime,3934,Auto,Unknown,Material only,1,Yes,3562.987869
+71,Female,Driver error,5435,Auto,Unknown,Injury only,1,Yes,93347.22505
+36,Female,Driver error,420,Auto,No,Material only,1,No,50259.10159
+47,Female,Crime,2335,Auto,No,Material only,1,Yes,7571.312751
+40,Female,Other causes,2293,Auto,Unknown,Material only,1,No,82292.1844
+79,Female,Driver error,5075,Auto,No,Injury only,1,Yes,12774.45677
+73,Female,Crime,1475,Home,No,Material only,1,No,19648.55371
+38,Female,Driver error,491,Auto,Unknown,Injury only,1,No,38275.35977
+24,Female,Other causes,4,Auto,Unknown,Injury only,1,Yes,71158.89338
+73,Female,Other causes,3936,Auto,Yes,Material and injury,2,Yes,829.6353104
+33,Female,Driver error,1737,Auto,No,Material only,6,No,35310.977
+56,Female,Driver error,1544,Auto,No,Material only,1,Yes,8075.348059
+45,Female,Other driver error,532,Auto,Unknown,Material and injury,1,Yes,19345.56095
+51,Female,Other driver error,1798,Auto,Yes,Injury only,1,Yes,22846.61006
+75,Female,Natural causes,4889,Auto,No,Material only,1,No,52070.64277
+33,Male,Other driver error,389,Auto,Unknown,Material and injury,1,No,75953.9381
+47,Male,Crime,2335,Auto,No,Material only,1,No,15361.89504
+72,Male,Driver error,2855,Auto,No,Injury only,1,Yes,16691.7166
+66,Male,Crime,10163,Auto,Unknown,Material and injury,1,Yes,22583.09766
+33,Male,Driver error,875,Auto,Unknown,Injury only,3,No,43674.54273
+38,Male,Driver error,491,Auto,Unknown,Injury only,1,No,30780.25352
+32,Male,Driver error,7,Auto,Unknown,Material and injury,1,No,42786.99199
+72,Male,Other causes,4515,Auto,No,Material only,1,No,17949.02929
+28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,8990.060526
+45,Male,Crime,1470,Auto,No,Material only,1,Yes,82920.52531
+67,Male,Other causes,4551,Auto,Unknown,Material only,1,Yes,9718.643451
+77,Male,Other causes,3,Auto,Unknown,Injury only,2,Yes,31657.15754
+56,Male,Crime,1517,Auto,No,Material only,1,Yes,21992.34574
+18,Female,Driver error,2,Home,Unknown,Material and injury,4,Yes,20027.14139
+40,Male,Other causes,2293,Auto,Unknown,Material only,1,No,35065.91513
+59,Male,Crime,2572,Auto,No,Material only,2,Yes,2029.627613
+36,Male,Crime,2363,Auto,Unknown,Material only,1,No,43080.62395
+28,Male,Crime,1045,Auto,Unknown,Material only,1,Yes,155.9406911
+71,Male,Driver error,5435,Auto,Unknown,Injury only,1,No,90899.82958
+75,Male,Driver error,8260,Auto,Yes,Injury only,1,Yes,19862.83008
+25,Male,Natural causes,8,Auto,No,Material only,1,No,12701.24682
+73,Male,Other causes,5728,Auto,No,Material only,1,Yes,4721.182021
+67,Male,Driver error,10991,Auto,Unknown,Material only,1,Yes,5393.604175
+47,Male,Crime,2335,Auto,No,Material only,1,Yes,16055.3116
+79,Male,Driver error,5075,Auto,No,Injury only,1,No,952.3996482
+64,Male,Driver error,2603,Auto,Yes,Material only,1,Yes,17073.20038
+67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,20173.34377
+45,Female,Other driver error,4031,Auto,No,Material only,4,No,12277.97312
+44,Male,Natural causes,891,Auto,No,Material and injury,1,Yes,5894.174694
+57,Male,Natural causes,449,Auto,No,Injury only,3,Yes,34034.5143
+49,Male,Crime,6550,Auto,No,Material only,4,Yes,12932.41164
+39,Male,Other driver error,191,Auto,Yes,Injury only,1,No,39509.14295
+24,Male,Other causes,4,Auto,Unknown,Injury only,1,Yes,22314.91994
+40,Male,Other causes,1897,Auto,Unknown,Injury only,1,No,83852.90412
+78,Male,Driver error,3268,Auto,No,Injury only,6,Yes,19985.18883
+69,Male,Driver error,5146,Auto,No,Material only,1,Yes,4209.534627
+40,Male,Crime,181,Auto,Unknown,Injury only,1,No,38204.87577
+74,Male,Natural causes,10789,Auto,No,Material only,1,No,45037.26759
+55,Male,Natural causes,622,Auto,No,Material only,3,Yes,13362.48204
+28,Male,Natural causes,203,Home,No,Material only,1,No,12433.02443
+71,Male,Driver error,6117,Auto,Unknown,Injury only,1,No,56503.85823
+63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,20538.91148
+54,Male,Other causes,1600,Auto,No,Injury only,4,Yes,46344.56866
+36,Male,Other driver error,2456,Auto,No,Material only,1,No,76463.50477
+30,Male,Other driver error,7,Auto,Unknown,Material and injury,1,No,32491.12133
+46,Male,Other causes,5460,Auto,Yes,Material and injury,1,Yes,23647.06521
+18,Male,Driver error,7,Auto,No,Material only,1,Yes,16920.29581
+37,Male,Other driver error,2930,Auto,No,Material and injury,1,No,48950.58852
+27,Male,Driver error,491,Home,Yes,Material only,1,Yes,3158.829253
+64,Male,Driver error,2791,Auto,Unknown,Injury only,1,Yes,20294.48004
+70,Male,Driver error,1859,Auto,No,Material only,1,Yes,15911.39843
+78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,78276.95921
+68,Male,Other causes,3310,Auto,No,Material only,1,Yes,11259.33728
+76,Male,Crime,4843,Home,No,Material only,1,Yes,11806.84296
+18,Female,Driver error,4,Home,No,Material and injury,1,Yes,23271.27445
+44,Male,Crime,3934,Auto,Unknown,Material only,1,Yes,24828.79477
+36,Male,Other driver error,2116,Auto,No,Injury only,3,No,90568.34247
+69,Male,Other driver error,2847,Auto,No,Material and injury,1,No,31340.67873
+29,Female,Crime,1274,Auto,No,Material only,8,Yes,18412.78283
+73,Male,Driver error,4196,Auto,No,Material only,4,Yes,67290.71886
+45,Male,Other driver error,532,Auto,Unknown,Material and injury,1,Yes,7894.165875
+49,Male,Crime,7447,Auto,No,Material only,1,Yes,11230.051
+26,Male,Other driver error,1203,Auto,Unknown,Material only,1,Yes,8361.491186
+36,Male,Driver error,420,Auto,No,Material only,1,No,51932.17124
+23,Male,Driver error,202,Auto,No,Material and injury,1,No,7328.861994
+54,Male,Other driver error,2620,Auto,Unknown,Injury only,1,Yes,5726.440354
+27,Female,Other causes,420,Auto,Unknown,Injury only,1,Yes,1150.559236
+40,Male,Driver error,441,Auto,No,Injury only,1,No,81478.38906
+67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,20820.04592
+44,Male,Other driver error,4191,Auto,No,Material and injury,1,Yes,30192.33912
+64,Male,Driver error,3801,Home,No,Injury only,1,Yes,1296.535943
+78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,14712.04375
+37,Male,Other causes,2750,Auto,Yes,Material and injury,1,No,89419.6571
+25,Male,Natural causes,8,Auto,No,Material only,1,Yes,3783.49866
+73,Male,Driver error,4196,Auto,No,Material only,4,Yes,19890.95549
+21,Male,Driver error,198,Auto,Unknown,Material only,1,Yes,10044.0843
+56,Male,Driver error,1544,Auto,No,Material only,1,Yes,22744.86479
+25,Female,Natural causes,6,Auto,Unknown,Material only,1,Yes,96718.68848
+41,Female,Crime,2120,Auto,Yes,Material only,1,Yes,26794.96439
+58,Female,Crime,8285,Auto,No,Material only,1,Yes,19845.67778
+26,Male,Other driver error,1203,Auto,Unknown,Material only,1,No,16563.54524
+73,Male,Other causes,3936,Auto,Yes,Material and injury,2,Yes,24512.66289
+36,Male,Other driver error,2116,Auto,No,Injury only,3,No,58473.93033
+75,Male,Driver error,5708,Auto,Yes,Material and injury,1,Yes,5426.388676
+51,Male,Other driver error,1798,Auto,Yes,Injury only,1,Yes,12600.45135
+63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,862.1044611
+49,Male,Other driver error,1431,Auto,Yes,Material and injury,5,Yes,8882.154645
+75,Male,Natural causes,4889,Auto,No,Material only,1,No,88038.78543
+18,Male,Other driver error,3,Auto,No,Material only,1,Yes,10580.12059
+73,Male,Crime,1475,Home,No,Material only,1,Yes,18387.36598
+33,Male,Driver error,1737,Auto,No,Material only,6,No,40483.84072
+55,Male,Natural causes,622,Auto,No,Material only,3,Yes,17328.79956
+45,Male,Other driver error,2468,Auto,No,Material only,1,Yes,84019.44226
+42,Male,Other driver error,1487,Auto,Unknown,Material and injury,1,No,8390.903208
+38,Male,Driver error,2987,Auto,No,Material and injury,1,No,51899.62961
+77,Female,Other driver error,8246,Auto,Unknown,Material only,1,Yes,9539.759043
+54,Male,Natural causes,4124,Auto,No,Material only,3,No,1818.203328
+49,Female,Natural causes,1089,Auto,No,Material only,1,Yes,28833.34376
+28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,11506.58254
+27,Male,Other causes,1147,Auto,Unknown,Material and injury,4,No,22608.64299
+67,Male,Driver error,10991,Auto,Unknown,Material only,1,Yes,14750.02238
+64,Male,Driver error,2791,Auto,Unknown,Injury only,1,Yes,9493.470895
+40,Male,Crime,181,Auto,Unknown,Injury only,1,No,59074.64547
+27,Male,Driver error,491,Home,Yes,Material only,1,No,15371.15247
+38,Male,Driver error,2987,Auto,No,Material and injury,1,No,57508.13205
+18,Male,Driver error,7,Auto,No,Material only,1,Yes,24781.30333
+33,Male,Driver error,875,Auto,Unknown,Injury only,3,No,88750.78563
+73,Male,Other causes,5728,Auto,No,Material only,1,Yes,5137.809426
+71,Male,Driver error,6117,Auto,Unknown,Injury only,1,Yes,1243.750587
+38,Male,Driver error,491,Auto,Unknown,Injury only,1,No,86427.15283
+28,Male,Natural causes,203,Home,No,Material only,1,Yes,35269.58854
+49,Male,Crime,6550,Auto,No,Material only,4,Yes,16118.09592
+44,Male,Crime,3934,Auto,Unknown,Material only,1,Yes,5095.637214
+57,Male,Natural causes,449,Auto,No,Injury only,3,Yes,1879.567496
+27,Male,Other causes,1147,Auto,Unknown,Material and injury,4,Yes,21581.20186
+74,Male,Natural causes,10789,Auto,No,Material only,1,Yes,1541.294311
+72,Male,Other causes,4515,Auto,No,Material only,1,Yes,55780.02831
+54,Male,Natural causes,4124,Auto,No,Material only,3,No,24100.29218
+73,Male,Other causes,3936,Auto,Yes,Material and injury,2,No,12807.7031
+24,Male,Other causes,4,Auto,Unknown,Injury only,1,No,21204.48096
+44,Male,Other causes,3210,Auto,Unknown,Injury only,4,Yes,22160.51764
+27,Male,Other driver error,426,Auto,No,Material only,1,Yes,3701.757305
+44,Male,Crime,2268,Auto,No,Material only,1,Yes,6552.347668
+32,Male,Driver error,748,Home,Yes,Injury only,5,No,52688.00437
+66,Male,Other driver error,3259,Auto,No,Injury only,4,Yes,52990.46523
+72,Male,Other driver error,4914,Auto,No,Material only,1,Yes,1696.377535
+36,Male,Driver error,3094,Auto,No,Material only,5,No,68644.55275
+48,Male,Driver error,3404,Auto,No,Material only,1,Yes,12514.88959
+31,Male,Other causes,712,Auto,No,Material only,1,No,95868.37887
+79,Male,Driver error,1793,Auto,No,Material only,1,Yes,22731.50184
+25,Male,Other causes,1027,Auto,Unknown,Material only,1,Yes,68695.04834
+52,Male,Crime,72,Auto,No,Material only,1,Yes,57577.75556
+41,Male,Other driver error,821,Auto,Unknown,Material only,1,No,24279.43692
+56,Male,Other causes,3509,Auto,Unknown,Material and injury,3,Yes,13498.87763
+33,Male,Crime,2156,Auto,No,Material only,1,No,95106.79661
+36,Male,Other causes,406,Auto,Unknown,Material and injury,1,No,65897.62627
+36,Male,Other driver error,4828,Auto,Unknown,Injury only,1,No,37518.01962
+24,Male,Other driver error,251,Auto,Unknown,Injury only,1,Yes,16562.1342
+61,Male,Other driver error,4342,Auto,No,Material only,4,Yes,13802.24895
+36,Male,Other causes,102,Home,Yes,Injury only,1,No,47233.64136
+44,Male,Natural causes,891,Auto,No,Material and injury,1,Yes,11510.01817
+78,Male,Driver error,3268,Auto,No,Injury only,6,Yes,24909.93365
+51,Male,Other driver error,1798,Auto,Yes,Injury only,1,Yes,1752.584172
+77,Male,Other causes,3,Auto,Unknown,Injury only,2,Yes,13936.88248
+75,Male,Driver error,8260,Auto,Yes,Injury only,1,Yes,15423.56332
+30,Male,Other driver error,7,Auto,Unknown,Material and injury,1,No,69214.91815
+56,Male,Crime,1517,Auto,No,Material only,1,Yes,19566.1344
+23,Male,Driver error,202,Auto,No,Material and injury,1,Yes,49075.76807
+68,Male,Other causes,3310,Auto,No,Material only,1,Yes,41244.51792
+67,Male,Other causes,4551,Auto,Unknown,Material only,1,Yes,14696.97727
+69,Male,Other driver error,2847,Auto,No,Material and injury,1,Yes,42501.46932
+33,Male,Other driver error,389,Auto,Unknown,Material and injury,1,No,51699.00402
+40,Male,Other causes,1897,Auto,Unknown,Injury only,1,No,66145.04766
+40,Male,Other causes,2293,Auto,Unknown,Material only,1,No,66934.11248
+54,Male,Other causes,1600,Auto,No,Injury only,4,No,3294.015815
+59,Male,Crime,2572,Auto,No,Material only,2,Yes,16282.09874
+36,Male,Other driver error,2456,Auto,No,Material only,1,No,33226.23909
+72,Male,Driver error,2855,Auto,No,Injury only,1,Yes,1903.527471
+49,Male,Crime,7447,Auto,No,Material only,1,Yes,98597.77276
+36,Male,Crime,2363,Auto,Unknown,Material only,1,No,79146.64807
+66,Male,Crime,10163,Auto,Unknown,Material and injury,1,Yes,14758.75496
+32,Male,Driver error,7,Auto,Unknown,Material and injury,1,No,44003.59624
+33,Male,Driver error,1737,Auto,No,Material only,6,No,71511.44514
+54,Male,Other driver error,2620,Auto,Unknown,Injury only,1,Yes,72610.77445
+64,Male,Driver error,2603,Auto,Yes,Material only,1,Yes,18006.29242
+56,Male,Driver error,1544,Auto,No,Material only,1,Yes,15882.42793
+28,Male,Crime,1045,Auto,Unknown,Material only,1,Yes,13816.23627
+45,Male,Crime,1470,Auto,No,Material only,1,Yes,8630.277092
+45,Male,Other driver error,2468,Auto,No,Material only,1,No,20132.62916
+71,Male,Driver error,5435,Auto,Unknown,Injury only,1,Yes,70904.50498
+37,Male,Other causes,2750,Auto,Yes,Material and injury,1,No,78187.27988
+45,Male,Other driver error,532,Auto,Unknown,Material and injury,1,Yes,16370.20932
+37,Male,Other driver error,2930,Auto,No,Material and injury,1,No,54771.20932
+75,Male,Driver error,5708,Auto,Yes,Material and injury,1,Yes,5702.468164
+18,Male,Other driver error,3,Auto,No,Material only,1,Yes,47621.7564
+69,Male,Driver error,5146,Auto,No,Material only,1,Yes,17345.97223
+39,Male,Other driver error,191,Auto,Yes,Injury only,1,No,73549.49651
+42,Male,Other driver error,1487,Auto,Unknown,Material and injury,1,No,11068.93893
+21,Male,Driver error,198,Auto,Unknown,Material only,1,Yes,16619.7207
+75,Male,Natural causes,4889,Auto,No,Material only,1,Yes,21167.82741
+49,Male,Other driver error,1431,Auto,Yes,Material and injury,5,No,1541.381888
+79,Male,Driver error,5075,Auto,No,Injury only,1,Yes,15009.68852
+36,Male,Driver error,420,Auto,No,Material only,1,No,89198.25312
+44,Male,Other driver error,4191,Auto,No,Material and injury,1,Yes,16819.98613
+46,Male,Other causes,5460,Auto,Yes,Material and injury,1,Yes,15022.69698
+64,Male,Driver error,3801,Home,No,Injury only,1,Yes,10866.75325
+73,Male,Crime,1475,Home,No,Material only,1,Yes,9693.218573
+76,Male,Crime,4843,Home,No,Material only,1,Yes,2827.665542
+70,Male,Driver error,1859,Auto,No,Material only,1,Yes,15646.66606
+40,Male,Driver error,441,Auto,No,Injury only,1,No,25717.05697
+41,Male,Driver error,4,Auto,No,Material only,1,Yes,5421.607599
+66,Male,Natural causes,3154,Auto,No,Injury only,3,Yes,8844.536712
+22,Male,Other driver error,349,Auto,No,Material only,1,Yes,15903.57244
+35,Male,Natural causes,1410,Auto,No,Material only,1,No,71797.40214
+42,Male,Driver error,1678,Auto,No,Material only,1,Yes,7492.909382
+34,Male,Natural causes,911,Auto,No,Material only,1,No,36665.91476
+62,Male,Driver error,2199,Auto,No,Material only,1,Yes,43700.15952
+70,Male,Driver error,2513,Auto,No,Material and injury,4,No,2194.186402
+55,Male,Other causes,5444,Auto,No,Injury only,1,Yes,18820.59147
+62,Male,Other driver error,2060,Auto,No,Material only,1,Yes,51823.37691
+47,Male,Crime,2335,Auto,No,Material only,1,Yes,2354.361435
+36,Male,Other driver error,2116,Auto,No,Injury only,3,No,48199.02256
+78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,9138.904282
+73,Male,Driver error,4196,Auto,No,Material only,4,Yes,85749.02589
+25,Male,Natural causes,8,Auto,No,Material only,1,Yes,10957.70654
+26,Male,Other driver error,1203,Auto,Unknown,Material only,1,No,29345.39973
+55,Male,Natural causes,622,Auto,No,Material only,3,Yes,1175.53205
+67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,71726.87795
+28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,23542.7162
+63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,23556.05547
+18,Male,Other causes,4,Auto,No,Material only,1,Yes,2006.684709
+36,Male,Other driver error,2396,Auto,No,Material only,1,No,33901.63107
+29,Male,Natural causes,801,Auto,No,Material only,1,Yes,25886.95731
+44,Male,Crime,3934,Auto,Unknown,Material only,1,Yes,11651.39182
+18,Male,Natural causes,5,Auto,No,Material only,1,Yes,6756.080609
+55,Male,Other causes,2972,Auto,No,Material only,1,Yes,24667.89384
+27,Male,Natural causes,289,Auto,Unknown,Material only,1,Yes,3090.912096
+38,Male,Other driver error,2144,Auto,Unknown,Material only,4,No,57554.3917
+29,Male,Other driver error,2221,Auto,Yes,Injury only,1,Yes,21645.49777
+24,Male,Other causes,4,Auto,Unknown,Injury only,1,Yes,22992.65164
+25,Male,Other causes,932,Auto,Unknown,Material only,4,Yes,2979.577676
+36,Female,Other driver error,2116,Auto,No,Injury only,3,No,67975.59423
+69,Male,Other driver error,6677,Auto,No,Material only,1,Yes,14251.15598
+41,Male,Natural causes,2894,Auto,Unknown,Material only,1,Yes,5278.634054
+73,Female,Driver error,4196,Auto,No,Material only,4,Yes,22784.75533
+28,Female,Driver error,5,Auto,Unknown,Material only,1,Yes,12864.82522
+63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,21357.3221
+78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,17045.60352
+67,Female,Crime,3386,Auto,Unknown,Material only,1,No,27840.77159
+47,Female,Crime,2335,Auto,No,Material only,1,Yes,21125.63129
+26,Female,Other driver error,1203,Auto,Unknown,Material only,1,Yes,11202.34838
+57,Male,Natural causes,449,Auto,No,Injury only,3,Yes,10127.21593
+22,Male,Natural causes,213,Auto,No,Material only,1,Yes,24481.60033
+18,Male,Other causes,5,Auto,Unknown,Material only,1,Yes,11253.10629
+39,Male,Other driver error,9,Auto,Unknown,Material and injury,4,No,98768.06322
+67,Male,Other causes,3890,Auto,No,Material only,2,Yes,576.625426
+39,Male,Other causes,4325,Auto,No,Material only,1,No,56221.05002
+49,Male,Natural causes,1089,Auto,No,Material only,1,No,15286.19736
+67,Male,Crime,4789,Auto,No,Material only,5,Yes,19959.20345
+55,Female,Natural causes,622,Auto,No,Material only,3,Yes,13988.82175
+29,Male,Crime,1274,Auto,No,Material only,8,Yes,23204.10461
+25,Female,Natural causes,8,Auto,No,Material only,1,Yes,22527.5698
+19,Male,Crime,8,Auto,No,Material and injury,1,Yes,22192.82112
+43,Male,Other causes,2509,Home,Unknown,Material only,1,Yes,9854.811391
+38,Male,Driver error,491,Auto,Unknown,Injury only,1,No,54536.85494
+45,Male,Other driver error,4031,Auto,No,Material only,4,Yes,7430.096949
+64,Male,Driver error,2791,Auto,Unknown,Injury only,1,Yes,72872.66015
+77,Male,Other driver error,8246,Auto,Unknown,Material only,1,Yes,24912.8862
+37,Male,Crime,2154,Auto,Yes,Injury only,1,No,94741.11754
+33,Male,Driver error,3,Auto,No,Injury only,1,No,41336.76762
+39,Male,Other driver error,714,Auto,Unknown,Material and injury,2,No,29562.12446
+67,Male,Natural causes,10652,Auto,No,Material only,1,No,14567.05113
+50,Male,Other driver error,4003,Auto,No,Material and injury,1,No,12659.95198
+40,Male,Other causes,4081,Auto,Unknown,Material and injury,5,No,88395.42824
+43,Male,Other causes,2576,Auto,No,Material only,1,Yes,4689.970837
+39,Male,Other driver error,685,Auto,No,Material only,1,No,71042.45224
+72,Male,Other causes,6447,Auto,No,Material and injury,1,Yes,207.9418496
+58,Male,Crime,8285,Auto,No,Material only,1,Yes,16619.30959
+27,Male,Other causes,420,Auto,Unknown,Injury only,1,Yes,8039.004481
+69,Male,Other driver error,5538,Auto,No,Injury only,1,Yes,24223.2398
+25,Male,Natural causes,6,Auto,Unknown,Material only,1,Yes,23239.98095
+41,Male,Crime,2120,Auto,Yes,Material only,1,Yes,4172.395747
+24,Male,Natural causes,64,Auto,No,Material only,1,Yes,24110.17827
+22,Male,Crime,103,Auto,Unknown,Material only,1,Yes,16801.63539
+43,Male,Natural causes,1068,Auto,No,Material only,1,Yes,20935.60184
+52,Male,Other driver error,1396,Auto,Unknown,Material only,1,Yes,16638.53458
+38,Male,Other driver error,546,Auto,No,Material only,1,No,32481.91334
+19,Male,Other driver error,4,Home,No,Material and injury,1,Yes,1875.430839
+32,Male,Other driver error,1532,Auto,No,Material only,3,No,26396.95911
+44,Male,Other driver error,1099,Home,No,Material only,1,Yes,24374.59778
+27,Male,Driver error,491,Home,Yes,Material only,1,Yes,30284.3976
+40,Male,Crime,181,Auto,Unknown,Injury only,1,No,63081.94783
+27,Male,Other driver error,4,Auto,No,Material only,1,Yes,56580.62011
+38,Male,Other driver error,2778,Auto,No,Material only,1,No,90878.00494
+54,Male,Crime,2922,Auto,No,Material only,2,Yes,21351.98286
+41,Male,Natural causes,955,Auto,No,Material only,1,No,12974.38234
+18,Male,Driver error,2,Home,Unknown,Material and injury,4,Yes,15888.30038
+41,Male,Other causes,896,Auto,No,Material only,1,Yes,29849.16933
+38,Male,Driver error,2987,Auto,No,Material and injury,1,No,85941.28214
+65,Male,Other causes,1196,Auto,No,Material only,5,Yes,6025.882596
+73,Male,Other causes,4770,Auto,Unknown,Material and injury,7,Yes,20289.8671
+30,Male,Other causes,782,Auto,No,Material and injury,1,No,56875.31022
+33,Male,Driver error,875,Auto,Unknown,Injury only,3,No,43361.89068
+51,Male,Natural causes,2893,Home,No,Material only,5,Yes,780.0976538
+42,Male,Other causes,1162,Auto,Yes,Material and injury,1,Yes,16476.76748
+36,Male,Other driver error,323,Auto,Unknown,Injury only,1,No,96154.838
+43,Male,Crime,1552,Auto,Yes,Material and injury,1,Yes,3973.675569
+67,Male,Driver error,10991,Auto,Unknown,Material only,1,Yes,8804.367987
+28,Male,Other causes,1092,Auto,Unknown,Material and injury,1,Yes,65457.15338
+71,Male,Driver error,6117,Auto,Unknown,Injury only,1,Yes,20585.24795
+70,Male,Other causes,3791,Auto,No,Material only,4,No,23285.31047
+74,Male,Natural causes,10789,Auto,No,Material only,1,Yes,7335.917864
+62,Male,Natural causes,3329,Auto,No,Material only,1,Yes,3180.93194
+27,Male,Other causes,1147,Auto,Unknown,Material and injury,4,No,10177.30751
+73,Male,Other causes,5728,Auto,No,Material only,1,Yes,19091.06956
+54,Male,Natural causes,4124,Auto,No,Material only,3,Yes,9359.937228
+31,Male,Crime,2273,Auto,No,Material only,2,No,69534.27315
+49,Male,Crime,6550,Auto,No,Material only,4,Yes,7985.362548
+23,Male,Other driver error,3,Auto,No,Material only,1,Yes,92890.53642
+72,Male,Other causes,4515,Auto,No,Material only,1,Yes,7733.018074
+23,Male,Other causes,6,Auto,No,Material only,1,Yes,90348.18363
+29,Male,Other causes,394,Auto,Unknown,Material and injury,1,Yes,24892.67716
+25,Male,Natural causes,447,Auto,Unknown,Material only,1,Yes,97966.23399
+73,Male,Other causes,3936,Auto,Yes,Material and injury,2,Yes,19058.99578
+51,Male,Other causes,3070,Auto,No,Material only,1,Yes,3424.5464
+49,Male,Driver error,2468,Auto,No,Material only,1,No,26975.32297
+18,Male,Driver error,7,Auto,No,Material only,1,Yes,21290.68258
+18,Male,Driver error,4,Home,No,Material and injury,1,Yes,345.4778624
+28,Male,Natural causes,203,Home,No,Material only,1,Yes,92221.65906
+29,Male,Other driver error,619,Auto,Unknown,Injury only,1,Yes,10484.58014
+24,Female,Natural causes,64,Auto,No,Material only,1,Yes,24308.24069
+38,Female,Driver error,2987,Auto,No,Material and injury,1,No,27647.8665
+40,Female,Crime,181,Auto,Unknown,Injury only,1,No,67388.60696
+41,Female,Natural causes,955,Auto,No,Material only,1,Yes,24631.00028
+41,Female,Other causes,896,Auto,No,Material only,1,Yes,11095.07448
+65,Female,Other causes,1196,Auto,No,Material only,5,No,11066.87534
+55,Female,Other causes,2972,Auto,No,Material only,1,Yes,8712.591764
+44,Female,Other driver error,1099,Home,No,Material only,1,Yes,15184.49001
+73,Female,Other causes,5728,Auto,No,Material only,1,Yes,10080.67577
+67,Female,Other causes,3890,Auto,No,Material only,2,No,8355.067889
+69,Female,Other driver error,6677,Auto,No,Material only,1,Yes,8895.759435
+19,Female,Crime,8,Auto,No,Material and injury,1,Yes,86719.11046
+54,Female,Crime,2922,Auto,No,Material only,2,Yes,44158.54617
+39,Female,Other causes,4325,Auto,No,Material only,1,No,53207.77201
+62,Female,Natural causes,3329,Auto,No,Material only,1,Yes,84882.58936
+36,Female,Other driver error,323,Auto,Unknown,Injury only,1,No,90826.38033
+29,Female,Other driver error,2221,Auto,Yes,Injury only,1,Yes,22953.19519
+51,Female,Other causes,3070,Auto,No,Material only,1,Yes,2352.433352
+49,Female,Driver error,2468,Auto,No,Material only,1,Yes,12371.30708
+27,Female,Natural causes,289,Auto,Unknown,Material only,1,No,31197.90323
+32,Female,Other driver error,1532,Auto,No,Material only,3,No,77995.60592
+30,Female,Other causes,782,Auto,No,Material and injury,1,No,49060.99189
+37,Female,Crime,2154,Auto,Yes,Injury only,1,No,54971.5121
+41,Female,Natural causes,2894,Auto,Unknown,Material only,1,Yes,23962.51394
+31,Female,Crime,2273,Auto,No,Material only,2,No,57143.82884
+51,Female,Natural causes,2893,Home,No,Material only,5,Yes,4650.8416
+28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,24923.29965
+78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,15922.26296
+26,Male,Other driver error,1203,Auto,Unknown,Material only,1,Yes,18135.78133
+67,Male,Crime,3386,Auto,Unknown,Material only,1,No,24976.00048
+47,Male,Crime,2335,Auto,No,Material only,1,No,5388.596715
+36,Male,Other driver error,2116,Auto,No,Injury only,3,No,89391.77107
+63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,56248.25577
+43,Female,Other causes,2576,Auto,No,Material only,1,Yes,6954.225707
+18,Female,Driver error,2,Home,Unknown,Material and injury,4,Yes,53392.65584
+29,Female,Other driver error,619,Auto,Unknown,Injury only,1,Yes,1100.322486
+69,Female,Other driver error,5538,Auto,No,Injury only,1,Yes,10429.04798
+27,Female,Other causes,420,Auto,Unknown,Injury only,1,Yes,18843.91977
+25,Female,Natural causes,6,Auto,Unknown,Material only,1,Yes,8898.514775
+58,Female,Crime,8285,Auto,No,Material only,1,Yes,24683.76823
+18,Female,Driver error,4,Home,No,Material and injury,1,Yes,65057.30957
+29,Female,Crime,1274,Auto,No,Material only,8,Yes,24344.21615
+25,Female,Other causes,932,Auto,Unknown,Material only,4,Yes,17607.46666
+18,Female,Other causes,4,Auto,No,Material only,1,Yes,12678.1093
+36,Female,Other driver error,2396,Auto,No,Material only,1,No,67821.00804
+42,Female,Other causes,1162,Auto,Yes,Material and injury,1,Yes,63377.4293
+22,Female,Natural causes,213,Auto,No,Material only,1,No,5463.301354
+43,Female,Crime,1552,Auto,Yes,Material and injury,1,Yes,18755.11224
+23,Female,Other driver error,3,Auto,No,Material only,1,Yes,23550.50177
+23,Female,Other causes,6,Auto,No,Material only,1,Yes,18068.57421
+28,Female,Other causes,1092,Auto,Unknown,Material and injury,1,Yes,24201.45446
+18,Female,Other causes,5,Auto,Unknown,Material only,1,Yes,34979.8048
+18,Female,Natural causes,5,Auto,No,Material only,1,Yes,4929.671608
+39,Female,Other driver error,9,Auto,Unknown,Material and injury,4,No,25176.15751
+25,Female,Natural causes,447,Auto,Unknown,Material only,1,Yes,948.4891214
+67,Female,Crime,4789,Auto,No,Material only,5,Yes,228.7215283
+70,Female,Other causes,3791,Auto,No,Material only,4,Yes,17399.37898
+29,Female,Other causes,394,Auto,Unknown,Material and injury,1,No,19119.6185
+73,Female,Other causes,4770,Auto,Unknown,Material and injury,7,Yes,2215.719547
+38,Female,Other driver error,2778,Auto,No,Material only,1,No,74755.60687
+38,Female,Other driver error,546,Auto,No,Material only,1,No,64209.0455
+27,Female,Driver error,491,Home,Yes,Material only,1,No,17319.33876
+33,Female,Driver error,875,Auto,Unknown,Injury only,3,No,36555.6521
+27,Female,Other driver error,4,Auto,No,Material only,1,Yes,21391.3295
+72,Female,Other causes,6447,Auto,No,Material and injury,1,Yes,10398.57466
+18,Female,Driver error,7,Auto,No,Material only,1,Yes,15505.84702
+38,Female,Other driver error,2144,Auto,Unknown,Material only,4,No,39246.87317
+52,Female,Other driver error,1396,Auto,Unknown,Material only,1,Yes,1843.372346
+64,Female,Driver error,2791,Auto,Unknown,Injury only,1,Yes,32067.79848
+27,Female,Other causes,1147,Auto,Unknown,Material and injury,4,Yes,53713.53537
+38,Female,Driver error,491,Auto,Unknown,Injury only,1,No,42782.46129
+28,Female,Natural causes,203,Home,No,Material only,1,Yes,2034.023026
+24,Female,Other causes,4,Auto,Unknown,Injury only,1,Yes,7909.504882
+67,Female,Driver error,10991,Auto,Unknown,Material only,1,Yes,3913.983778
+40,Female,Other causes,4081,Auto,Unknown,Material and injury,5,No,89448.24641
+67,Female,Natural causes,10652,Auto,No,Material only,1,Yes,20413.99283
+71,Female,Driver error,6117,Auto,Unknown,Injury only,1,Yes,7727.262888
+50,Female,Other driver error,4003,Auto,No,Material and injury,1,Yes,76315.39885
+29,Female,Natural causes,801,Auto,No,Material only,1,Yes,9197.701476
+22,Female,Crime,103,Auto,Unknown,Material only,1,No,18939.03205
+43,Female,Other causes,2509,Home,Unknown,Material only,1,Yes,1019.243534
+39,Female,Other driver error,685,Auto,No,Material only,1,No,76820.69879
+77,Female,Other driver error,8246,Auto,Unknown,Material only,1,Yes,24629.3477
+39,Female,Other driver error,714,Auto,Unknown,Material and injury,2,No,81006.925
+45,Female,Other driver error,4031,Auto,No,Material only,4,Yes,12502.22442
+73,Male,Driver error,4196,Auto,No,Material only,4,Yes,10749.31351
+73,Female,Other causes,3936,Auto,Yes,Material and injury,2,Yes,20292.79837
+49,Female,Crime,6550,Auto,No,Material only,4,No,21259.804
+44,Female,Crime,3934,Auto,Unknown,Material only,1,No,92385.20115
+72,Female,Other causes,4515,Auto,No,Material only,1,Yes,29292.48387
+57,Female,Natural causes,449,Auto,No,Injury only,3,Yes,19897.1088
+55,Male,Natural causes,622,Auto,No,Material only,3,Yes,6640.283594
+54,Female,Natural causes,4124,Auto,No,Material only,3,Yes,48534.71356
+43,Female,Natural causes,1068,Auto,No,Material only,1,Yes,190.0936789
+33,Female,Driver error,3,Auto,No,Injury only,1,No,58974.79887
+49,Female,Natural causes,1089,Auto,No,Material only,1,Yes,3433.104613
+74,Female,Natural causes,10789,Auto,No,Material only,1,No,5934.692644
+19,Female,Other driver error,4,Home,No,Material and injury,1,Yes,92356.63536
+25,Male,Natural causes,8,Auto,No,Material only,1,Yes,8415.077551
+41,Female,Crime,2120,Auto,Yes,Material only,1,Yes,15941.78112
+28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,70001.60422
+55,Male,Natural causes,622,Auto,No,Material only,3,Yes,20565.0471
+73,Male,Driver error,4196,Auto,No,Material only,4,Yes,7911.002561
+63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,53201.32972
+67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,6176.136803
+47,Male,Crime,2335,Auto,No,Material only,1,Yes,1892.914257
+78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,23406.40746
+36,Male,Other driver error,2116,Auto,No,Injury only,3,No,94206.39897
+25,Male,Natural causes,8,Auto,No,Material only,1,Yes,14561.45004
+26,Male,Other driver error,1203,Auto,Unknown,Material only,1,No,11975.24505
+18,Female,Driver error,4,Home,No,Material and injury,1,Yes,21798.14756
+25,Female,Natural causes,6,Auto,Unknown,Material only,1,No,12515.42352
+18,Female,Driver error,2,Home,Unknown,Material and injury,4,Yes,5115.372758
+29,Female,Crime,1274,Auto,No,Material only,8,Yes,50347.44849
+77,Female,Other driver error,8246,Auto,Unknown,Material only,1,Yes,23595.0006
+41,Female,Crime,2120,Auto,Yes,Material only,1,Yes,18239.63354
+49,Female,Natural causes,1089,Auto,No,Material only,1,Yes,4890.17217
+45,Female,Other driver error,4031,Auto,No,Material only,4,Yes,12337.88813
+58,Female,Crime,8285,Auto,No,Material only,1,Yes,1898.580385
+27,Female,Other causes,420,Auto,Unknown,Injury only,1,Yes,20227.21265
+18,Female,Other causes,4,Auto,No,Material only,1,Yes,7955.148206
+30,Female,Other causes,782,Auto,No,Material and injury,1,No,77307.04634
+32,Female,Other driver error,1532,Auto,No,Material only,3,No,89290.46678
+25,Female,Other causes,932,Auto,Unknown,Material only,4,Yes,91668.15547
+22,Female,Crime,103,Auto,Unknown,Material only,1,Yes,93902.81394
+24,Female,Natural causes,64,Auto,No,Material only,1,Yes,20048.07355
+43,Female,Natural causes,1068,Auto,No,Material only,1,Yes,19455.79911
+29,Female,Other causes,394,Auto,Unknown,Material and injury,1,Yes,19171.69296
+36,Female,Other driver error,2396,Auto,No,Material only,1,No,38381.70207
+69,Female,Other driver error,5538,Auto,No,Injury only,1,Yes,14646.56725
+76,Female,Other causes,5242,Auto,No,Material only,1,No,11841.33521
+78,Female,Natural causes,4323,Auto,No,Material only,4,Yes,13490.87493
+18,Female,Driver error,7,Auto,No,Material only,1,No,8680.80878
+41,Female,Other causes,2353,Auto,No,Injury only,1,Yes,9120.146908
+48,Female,Driver error,3300,Auto,No,Material only,1,No,20516.03208
+53,Female,Crime,2613,Auto,Unknown,Material only,1,Yes,5989.498176
+29,Female,Other causes,2,Auto,No,Material only,3,Yes,71092.79022
+78,Female,Other causes,5309,Auto,Unknown,Material only,2,Yes,97474.0633
+24,Female,Other causes,426,Auto,No,Material only,1,Yes,16167.26282
+56,Female,Other causes,2004,Auto,No,Material only,3,Yes,21716.43688
+31,Female,Crime,2273,Auto,No,Material only,2,No,87041.3619
+51,Female,Other causes,3070,Auto,No,Material only,1,Yes,19498.68006
+28,Female,Other causes,1092,Auto,Unknown,Material and injury,1,Yes,4631.837146
+62,Female,Natural causes,3329,Auto,No,Material only,1,Yes,21297.08796
+36,Female,Other driver error,323,Auto,Unknown,Injury only,1,No,40787.08953
+42,Female,Other causes,1162,Auto,Yes,Material and injury,1,Yes,17940.6395
+22,Female,Natural causes,213,Auto,No,Material only,1,No,147.6919104
+43,Female,Crime,1552,Auto,Yes,Material and injury,1,Yes,9389.725229
+70,Female,Other causes,3791,Auto,No,Material only,4,Yes,11359.37031
+29,Female,Other driver error,2221,Auto,Yes,Injury only,1,Yes,18529.75904
+55,Female,Natural causes,3197,Auto,No,Material only,4,Yes,11622.35457
+77,Female,Other driver error,3460,Auto,No,Injury only,1,Yes,44952.98467
+61,Female,Other driver error,3201,Auto,Yes,Material and injury,1,Yes,9729.756842
+75,Female,Driver error,3530,Auto,Unknown,Material and injury,3,Yes,44061.04293
+73,Female,Other causes,4837,Auto,Unknown,Material only,1,Yes,21856.6768
+76,Female,Other driver error,398,Auto,Unknown,Material only,1,Yes,5052.344894
+49,Female,Other causes,4008,Auto,Yes,Material only,2,Yes,17848.77838
+52,Female,Other causes,2810,Auto,Unknown,Material and injury,4,Yes,17901.63415
+54,Female,Crime,954,Auto,No,Material only,3,Yes,51224.40352
+66,Female,Crime,7121,Home,No,Material only,1,No,17892.76643
+23,Female,Other causes,6,Auto,No,Material only,1,Yes,23525.78189
+39,Female,Other causes,4325,Auto,No,Material only,1,No,41735.13597
+49,Female,Driver error,2468,Auto,No,Material only,1,Yes,2626.9543
+41,Female,Natural causes,2894,Auto,Unknown,Material only,1,No,22966.84459
+27,Female,Natural causes,289,Auto,Unknown,Material only,1,Yes,20370.65175
+69,Female,Other driver error,6677,Auto,No,Material only,1,Yes,12554.84589
+23,Female,Other driver error,3,Auto,No,Material only,1,Yes,41865.90404
+39,Female,Other driver error,9,Auto,Unknown,Material and injury,4,No,82268.31396
+18,Female,Other causes,5,Auto,Unknown,Material only,1,Yes,22965.06544
+67,Female,Crime,4789,Auto,No,Material only,5,Yes,17638.82839
+43,Female,Other causes,2509,Home,Unknown,Material only,1,Yes,61220.27916
+25,Female,Natural causes,447,Auto,Unknown,Material only,1,Yes,13338.42155
+67,Female,Natural causes,10652,Auto,No,Material only,1,Yes,24311.43392
+37,Female,Crime,2154,Auto,Yes,Injury only,1,No,94835.08639
+52,Female,Other driver error,1396,Auto,Unknown,Material only,1,No,20335.02644
+41,Female,Other causes,896,Auto,No,Material only,1,Yes,16530.82252
+55,Female,Other causes,2972,Auto,No,Material only,1,Yes,18895.72624
+18,Female,Natural causes,5,Auto,No,Material only,1,Yes,15119.45145
+19,Female,Crime,8,Auto,No,Material and injury,1,Yes,66328.89931
+67,Female,Other causes,3890,Auto,No,Material only,2,Yes,16846.25699
+20,Female,Natural causes,6,Auto,Yes,Material only,4,Yes,2245.657031
+37,Female,Natural causes,662,Auto,Unknown,Material only,4,No,87472.13569
+21,Female,Natural causes,26,Auto,Yes,Injury only,1,No,39955.15331
+43,Female,Natural causes,226,Auto,No,Material only,3,Yes,21766.90882
+49,Female,Other driver error,2258,Auto,Unknown,Material only,4,Yes,16536.5734
+19,Female,Driver error,5,Auto,Unknown,Material only,1,Yes,14071.89008
+41,Female,Other causes,2135,Auto,No,Material only,1,No,22217.15831
+28,Female,Other driver error,402,Auto,Unknown,Material only,3,Yes,12271.31974
+34,Female,Other driver error,426,Home,Unknown,Material only,1,No,40311.5568
+52,Female,Crime,2294,Home,No,Material only,1,No,54801.25957
+29,Female,Other driver error,619,Auto,Unknown,Injury only,1,Yes,20528.36409
+51,Female,Natural causes,2893,Home,No,Material only,5,No,9077.663618
+50,Female,Other driver error,4003,Auto,No,Material and injury,1,Yes,4493.101069
+40,Female,Other causes,4081,Auto,Unknown,Material and injury,5,No,76834.02452
+19,Female,Other driver error,4,Home,No,Material and injury,1,Yes,16620.91494
+39,Female,Other driver error,685,Auto,No,Material only,1,No,92287.84888
+29,Female,Natural causes,801,Auto,No,Material only,1,No,24822.73978
+33,Female,Driver error,3,Auto,No,Injury only,1,No,70172.54613
+39,Female,Other driver error,714,Auto,Unknown,Material and injury,2,No,79169.90091
+43,Female,Other causes,2576,Auto,No,Material only,1,No,1780.951858
+41,Female,Natural causes,955,Auto,No,Material only,1,Yes,4312.716428
+44,Female,Other driver error,1099,Home,No,Material only,1,Yes,467.735421
+73,Female,Other causes,4770,Auto,Unknown,Material and injury,7,Yes,7131.358983
+38,Female,Other driver error,546,Auto,No,Material only,1,No,98275.73568
+65,Female,Other causes,1196,Auto,No,Material only,5,Yes,11602.86433
+38,Female,Other driver error,2778,Auto,No,Material only,1,No,28497.61149
+54,Female,Crime,2922,Auto,No,Material only,2,No,46230.29358
+72,Female,Other causes,6447,Auto,No,Material and injury,1,Yes,24204.25576
+27,Female,Other driver error,4,Auto,No,Material only,1,Yes,24457.42808
+38,Female,Other driver error,2144,Auto,Unknown,Material only,4,No,90913.01863
+38,Female,Driver error,2987,Auto,No,Material and injury,1,No,79753.23951
+18,Female,Driver error,7,Auto,No,Material only,1,Yes,12152.03418
+38,Female,Driver error,491,Auto,Unknown,Injury only,1,No,93734.89382
+74,Female,Natural causes,10789,Auto,No,Material only,1,Yes,10882.67337
+67,Female,Driver error,10991,Auto,Unknown,Material only,1,No,25772.48775
+54,Female,Natural causes,4124,Auto,No,Material only,3,No,17905.82131
+72,Female,Other causes,4515,Auto,No,Material only,1,Yes,17723.86676
+44,Female,Crime,3934,Auto,Unknown,Material only,1,Yes,11953.23926
+71,Female,Driver error,6117,Auto,Unknown,Injury only,1,Yes,8941.777568
+27,Female,Other driver error,426,Auto,No,Material only,1,Yes,3999.985507
+44,Female,Other causes,3210,Auto,Unknown,Injury only,4,Yes,9788.572255
+72,Female,Other driver error,4914,Auto,No,Material only,1,Yes,16091.62592
+36,Female,Driver error,3094,Auto,No,Material only,5,No,38934.95315
+44,Female,Natural causes,891,Auto,No,Material and injury,1,Yes,2830.585066
+30,Female,Other driver error,7,Auto,Unknown,Material and injury,1,No,95140.99425
+75,Female,Driver error,8260,Auto,Yes,Injury only,1,Yes,19689.48763
+77,Female,Other causes,3,Auto,Unknown,Injury only,2,Yes,2313.57479
+72,Female,Driver error,2855,Auto,No,Injury only,1,No,44790.24606
+23,Female,Driver error,202,Auto,No,Material and injury,1,No,7818.814095
+67,Female,Other causes,4551,Auto,Unknown,Material only,1,Yes,16851.74528
+68,Female,Other causes,3310,Auto,No,Material only,1,Yes,18663.55381
+41,Female,Driver error,4,Auto,No,Material only,1,Yes,17072.41259
+51,Female,Other driver error,1798,Auto,Yes,Injury only,1,Yes,14689.26724
+70,Female,Driver error,2513,Auto,No,Material and injury,4,Yes,20785.15842
+56,Female,Crime,1517,Auto,No,Material only,1,No,4080.896478
+78,Female,Driver error,3268,Auto,No,Injury only,6,Yes,9253.201945
+73,Female,Other causes,5728,Auto,No,Material only,1,Yes,88535.73419
+40,Female,Other causes,1897,Auto,Unknown,Injury only,1,No,69394.61452
+54,Female,Other causes,1600,Auto,No,Injury only,4,Yes,28770.02008
+36,Female,Crime,2363,Auto,Unknown,Material only,1,No,87027.3859
+40,Female,Other causes,2293,Auto,Unknown,Material only,1,No,49199.91612
+79,Female,Driver error,1793,Auto,No,Material only,1,No,6256.504664
+66,Female,Other driver error,3259,Auto,No,Injury only,4,Yes,2080.962524
+42,Female,Driver error,1678,Auto,No,Material only,1,Yes,56102.75589
+18,Female,Other driver error,3,Auto,No,Material only,1,Yes,73139.6339
+39,Female,Other driver error,191,Auto,Yes,Injury only,1,No,67196.99839
+42,Female,Other driver error,1487,Auto,Unknown,Material and injury,1,Yes,43655.85261
+37,Female,Other causes,2750,Auto,Yes,Material and injury,1,No,64649.60277
+32,Female,Driver error,748,Home,Yes,Injury only,5,No,96575.28698
+44,Female,Crime,2268,Auto,No,Material only,1,Yes,5845.750449
+21,Female,Driver error,198,Auto,Unknown,Material only,1,Yes,20019.87108
+37,Female,Other driver error,2930,Auto,No,Material and injury,1,No,82589.19531
+69,Female,Driver error,5146,Auto,No,Material only,1,Yes,23186.38441
+75,Female,Driver error,5708,Auto,Yes,Material and injury,1,Yes,12631.73964
+75,Female,Natural causes,4889,Auto,No,Material only,1,Yes,24197.09364
+45,Female,Other driver error,532,Auto,Unknown,Material and injury,1,No,19303.87217
+35,Female,Natural causes,1410,Auto,No,Material only,1,No,63671.87066
+62,Female,Driver error,2199,Auto,No,Material only,1,Yes,7092.903504
+33,Female,Other driver error,389,Auto,Unknown,Material and injury,1,No,78592.2469
+66,Female,Natural causes,3154,Auto,No,Injury only,3,No,9390.118342
+22,Female,Other driver error,349,Auto,No,Material only,1,No,24310.46532
+49,Female,Crime,7447,Auto,No,Material only,1,Yes,22512.38513
+62,Female,Other driver error,2060,Auto,No,Material only,1,No,232.5321707
+34,Female,Natural causes,911,Auto,No,Material only,1,No,42397.84016
+55,Female,Other causes,5444,Auto,No,Injury only,1,No,19816.0491
+59,Female,Crime,2572,Auto,No,Material only,2,No,24577.71242
+28,Female,Driver error,5,Auto,Unknown,Material only,1,No,9598.310398
+27,Female,Other causes,1147,Auto,Unknown,Material and injury,4,Yes,5174.343782
+49,Female,Crime,6550,Auto,No,Material only,4,Yes,24672.74129
+28,Female,Natural causes,203,Home,No,Material only,1,Yes,21138.56336
+48,Female,Driver error,3404,Auto,No,Material only,1,No,19724.55238
+24,Female,Other causes,4,Auto,Unknown,Injury only,1,Yes,18817.83686
+57,Female,Natural causes,449,Auto,No,Injury only,3,Yes,77688.24881
+73,Female,Other causes,3936,Auto,Yes,Material and injury,2,Yes,18799.77097
+31,Female,Other causes,712,Auto,No,Material only,1,No,96907.48369
+55,Male,Natural causes,622,Auto,No,Material only,3,Yes,23359.68971
+36,Male,Other driver error,2116,Auto,No,Injury only,3,No,60155.34605
+67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,15313.64064
+73,Male,Driver error,4196,Auto,No,Material only,4,Yes,39005.64153
+63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,10037.28772
+78,Male,Other driver error,14991,Auto,Unknown,Material only,1,No,23810.91598
+36,Female,Other driver error,2456,Auto,No,Material only,1,No,56082.20634
+29,Female,Other causes,394,Auto,Unknown,Material and injury,1,No,6781.020025
+24,Female,Natural causes,64,Auto,No,Material only,1,Yes,42098.77979
+30,Female,Other causes,782,Auto,No,Material and injury,1,No,45250.92602
+18,Female,Other causes,4,Auto,No,Material only,1,Yes,20882.41307
+22,Female,Crime,103,Auto,Unknown,Material only,1,Yes,7284.281703
+32,Female,Other driver error,1532,Auto,No,Material only,3,No,63485.13764
+43,Female,Natural causes,1068,Auto,No,Material only,1,Yes,20375.8647
+25,Female,Other causes,932,Auto,Unknown,Material only,4,Yes,20462.34064
+69,Female,Other driver error,5538,Auto,No,Injury only,1,Yes,64665.82272
+36,Female,Other driver error,2396,Auto,No,Material only,1,No,29586.01017
+47,Male,Crime,2335,Auto,No,Material only,1,Yes,10842.38459
+27,Female,Driver error,491,Home,Yes,Material only,1,Yes,14579.77495
+40,Female,Crime,181,Auto,Unknown,Injury only,1,No,88946.64973
+25,Female,Natural causes,8,Auto,No,Material only,1,Yes,22770.14923
+33,Female,Driver error,875,Auto,Unknown,Injury only,3,No,63990.82422
+69,Female,Other driver error,2847,Auto,No,Material and injury,1,Yes,19944.98379
+67,Female,Crime,3386,Auto,Unknown,Material only,1,Yes,50663.28599
+73,Female,Driver error,4196,Auto,No,Material only,4,Yes,14519.7454
+55,Female,Natural causes,622,Auto,No,Material only,3,Yes,12731.81043
+63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,No,5081.079851
+25,Male,Natural causes,8,Auto,No,Material only,1,Yes,97060.63885
+78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,1135.792838
+28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,21626.64176
+47,Female,Crime,2335,Auto,No,Material only,1,Yes,21065.41843
+36,Female,Other driver error,2116,Auto,No,Injury only,3,No,55852.44259
+26,Female,Other driver error,1203,Auto,Unknown,Material only,1,Yes,21256.22721
+26,Male,Other driver error,1203,Auto,Unknown,Material only,1,Yes,68604.92731
+64,Female,Driver error,2791,Auto,Unknown,Injury only,1,No,5532.525789
+24,Male,Other causes,4,Auto,Unknown,Injury only,1,Yes,97709.8174
+72,Male,Other causes,4515,Auto,No,Material only,1,Yes,17154.87256
+73,Male,Other causes,3936,Auto,Yes,Material and injury,2,Yes,720.9965374
+44,Male,Other causes,3210,Auto,Unknown,Injury only,4,Yes,15937.93543
+28,Male,Natural causes,203,Home,No,Material only,1,Yes,19806.52124
+44,Male,Crime,2268,Auto,No,Material only,1,No,1914.891341
+54,Male,Natural causes,4124,Auto,No,Material only,3,No,7735.403478
+66,Male,Other driver error,3259,Auto,No,Injury only,4,Yes,17974.74467
+67,Male,Other causes,4551,Auto,Unknown,Material only,1,Yes,12719.35808
+31,Male,Other causes,712,Auto,No,Material only,1,No,83965.59512
+30,Male,Other driver error,7,Auto,Unknown,Material and injury,1,No,34572.03858
+77,Male,Other causes,3,Auto,Unknown,Injury only,2,No,2970.026692
+68,Male,Other causes,3310,Auto,No,Material only,1,Yes,37662.86567
+48,Male,Driver error,3404,Auto,No,Material only,1,Yes,6775.298257
+56,Male,Crime,1517,Auto,No,Material only,1,Yes,33010.04389
+36,Male,Driver error,3094,Auto,No,Material only,5,No,42695.00455
+44,Male,Crime,3934,Auto,Unknown,Material only,1,No,24847.36673
+32,Male,Driver error,748,Home,Yes,Injury only,5,No,37539.79711
+44,Male,Natural causes,891,Auto,No,Material and injury,1,Yes,8950.324194
+36,Male,Other driver error,2456,Auto,No,Material only,1,No,32406.17835
+59,Male,Crime,2572,Auto,No,Material only,2,Yes,24906.49762
+42,Male,Other driver error,1487,Auto,Unknown,Material and injury,1,Yes,14211.30533
+75,Male,Natural causes,4889,Auto,No,Material only,1,Yes,17296.37625
+49,Male,Crime,7447,Auto,No,Material only,1,Yes,66885.79924
+23,Male,Driver error,202,Auto,No,Material and injury,1,Yes,23785.99406
+69,Male,Other driver error,2847,Auto,No,Material and injury,1,No,749.4527552
+72,Male,Driver error,2855,Auto,No,Injury only,1,No,16592.54385
+54,Male,Other causes,1600,Auto,No,Injury only,4,Yes,4798.504369
+33,Male,Other driver error,389,Auto,Unknown,Material and injury,1,No,29982.36985
+40,Male,Other causes,2293,Auto,Unknown,Material only,1,No,65745.64263
+40,Male,Other causes,1897,Auto,Unknown,Injury only,1,No,81516.10972
+36,Male,Crime,2363,Auto,Unknown,Material only,1,No,61814.23998
+21,Male,Driver error,198,Auto,Unknown,Material only,1,Yes,15241.18588
+37,Male,Other driver error,2930,Auto,No,Material and injury,1,No,53138.62844
+69,Male,Driver error,5146,Auto,No,Material only,1,Yes,683.3364252
+49,Male,Crime,6550,Auto,No,Material only,4,Yes,57784.19559
+37,Male,Other causes,2750,Auto,Yes,Material and injury,1,No,62878.58589
+42,Male,Driver error,1678,Auto,No,Material only,1,No,19988.88202
+35,Male,Natural causes,1410,Auto,No,Material only,1,No,32975.83281
+39,Male,Other driver error,191,Auto,Yes,Injury only,1,No,84257.48223
+66,Male,Natural causes,3154,Auto,No,Injury only,3,Yes,6972.174686
+22,Male,Other driver error,349,Auto,No,Material only,1,Yes,5285.571165
+45,Male,Other driver error,532,Auto,Unknown,Material and injury,1,Yes,8813.039352
+55,Male,Other causes,5444,Auto,No,Injury only,1,No,43649.72961
+62,Male,Other driver error,2060,Auto,No,Material only,1,No,73798.62347
+25,Male,Natural causes,8,Auto,No,Material only,1,Yes,22956.77443
+26,Male,Other driver error,1203,Auto,Unknown,Material only,1,Yes,23675.02802
+28,Male,Driver error,5,Auto,Unknown,Material only,1,No,14494.29186
+34,Male,Natural causes,911,Auto,No,Material only,1,No,40885.35615
+41,Male,Driver error,4,Auto,No,Material only,1,Yes,11512.79636
+67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,25686.01958
+70,Male,Driver error,2513,Auto,No,Material and injury,4,Yes,40785.55102
+36,Male,Other driver error,2116,Auto,No,Injury only,3,No,73224.66763
+62,Male,Driver error,2199,Auto,No,Material only,1,Yes,17577.82386
+18,Male,Other driver error,3,Auto,No,Material only,1,No,21407.84477
+27,Male,Other causes,1147,Auto,Unknown,Material and injury,4,Yes,23285.70885
+26,Female,Other driver error,1203,Auto,Unknown,Material only,1,No,69709.7396
+25,Female,Natural causes,8,Auto,No,Material only,1,Yes,4706.587037
+63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,No,12904.06412
+78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,24695.80348
+28,Female,Driver error,5,Auto,Unknown,Material only,1,No,15775.20866
+47,Male,Crime,2335,Auto,No,Material only,1,Yes,2476.971401
+47,Female,Crime,2335,Auto,No,Material only,1,Yes,14152.09563
+36,Female,Other driver error,2116,Auto,No,Injury only,3,No,54276.05235
+22,Male,Crime,103,Auto,Unknown,Material only,1,No,21020.80006
+43,Male,Natural causes,1068,Auto,No,Material only,1,Yes,12770.4575
+73,Female,Driver error,4196,Auto,No,Material only,4,Yes,23365.46823
+36,Male,Other driver error,2396,Auto,No,Material only,1,No,85341.44471
+30,Male,Other causes,782,Auto,No,Material and injury,1,No,50057.81681
+32,Male,Other driver error,1532,Auto,No,Material only,3,No,25844.28551
+18,Male,Other causes,4,Auto,No,Material only,1,No,5435.192945
+25,Male,Other causes,932,Auto,Unknown,Material only,4,Yes,15613.30625
+24,Male,Natural causes,64,Auto,No,Material only,1,No,20817.49083
+29,Male,Other causes,394,Auto,Unknown,Material and injury,1,No,75907.99713
+55,Female,Natural causes,622,Auto,No,Material only,3,Yes,10370.61119
+67,Female,Crime,3386,Auto,Unknown,Material only,1,Yes,81777.19221
+75,Male,Driver error,8260,Auto,Yes,Injury only,1,Yes,16634.07945
+69,Male,Other driver error,5538,Auto,No,Injury only,1,Yes,31184.69187
+78,Male,Other driver error,14991,Auto,Unknown,Material only,1,No,22693.46935
+63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,35524.13334
+78,Male,Driver error,3268,Auto,No,Injury only,6,Yes,7779.827034
+51,Male,Other driver error,1798,Auto,Yes,Injury only,1,Yes,8977.125931
+72,Male,Other driver error,4914,Auto,No,Material only,1,Yes,22175.15143
+79,Male,Driver error,1793,Auto,No,Material only,1,Yes,1115.039048
+27,Male,Other driver error,426,Auto,No,Material only,1,No,60681.68894
+27,Male,Driver error,491,Home,Yes,Material only,1,Yes,22058.98622
+38,Male,Driver error,2987,Auto,No,Material and injury,1,No,97405.42199
+33,Male,Driver error,875,Auto,Unknown,Injury only,3,No,53210.88265
+75,Male,Driver error,5708,Auto,Yes,Material and injury,1,Yes,14343.47388
+67,Male,Driver error,10991,Auto,Unknown,Material only,1,Yes,7737.135599
+71,Male,Driver error,6117,Auto,Unknown,Injury only,1,Yes,47216.52958
+38,Male,Driver error,491,Auto,Unknown,Injury only,1,No,86955.44636
+73,Male,Other causes,5728,Auto,No,Material only,1,Yes,14557.4669
+74,Male,Natural causes,10789,Auto,No,Material only,1,Yes,11869.61758
+57,Male,Natural causes,449,Auto,No,Injury only,3,Yes,5884.943005
+64,Male,Driver error,2791,Auto,Unknown,Injury only,1,Yes,1040.044034
+18,Male,Driver error,7,Auto,No,Material only,1,Yes,19444.93947
+40,Male,Crime,181,Auto,Unknown,Injury only,1,No,76303.29239
+73,Male,Driver error,4196,Auto,No,Material only,4,No,17860.18907
+55,Male,Natural causes,622,Auto,No,Material only,3,Yes,21143.70762
+40,Male,Crime,181,Auto,Unknown,Injury only,1,No,34702.69763
+38,Male,Driver error,2987,Auto,No,Material and injury,1,No,73567.71707
+27,Male,Driver error,491,Home,Yes,Material only,1,Yes,89626.10218
+71,Male,Driver error,6117,Auto,Unknown,Injury only,1,Yes,9133.539323
+73,Male,Other causes,5728,Auto,No,Material only,1,No,1614.792186
+38,Male,Driver error,491,Auto,Unknown,Injury only,1,No,58827.71251
+18,Male,Driver error,7,Auto,No,Material only,1,Yes,92528.47068
+67,Male,Driver error,10991,Auto,Unknown,Material only,1,Yes,921.3978846
+33,Male,Driver error,875,Auto,Unknown,Injury only,3,No,41426.75061
+64,Male,Driver error,2791,Auto,Unknown,Injury only,1,Yes,80551.91789
+24,Male,Other causes,4,Auto,Unknown,Injury only,1,No,66118.8409
+72,Male,Other causes,4515,Auto,No,Material only,1,No,11263.39967
+73,Male,Other causes,3936,Auto,Yes,Material and injury,2,Yes,17122.1057
+28,Male,Natural causes,203,Home,No,Material only,1,Yes,14086.647
+27,Male,Other causes,1147,Auto,Unknown,Material and injury,4,No,10155.97991
+74,Male,Natural causes,10789,Auto,No,Material only,1,Yes,21910.0239
+54,Male,Natural causes,4124,Auto,No,Material only,3,Yes,62834.02565
+57,Male,Natural causes,449,Auto,No,Injury only,3,Yes,3435.39918
+44,Male,Crime,3934,Auto,Unknown,Material only,1,No,93139.69486
+49,Male,Crime,6550,Auto,No,Material only,4,Yes,19842.52145
+44,Male,Crime,2268,Auto,No,Material only,1,Yes,7743.212066
+44,Male,Other causes,3210,Auto,Unknown,Injury only,4,No,16912.56582
+79,Male,Driver error,1793,Auto,No,Material only,1,Yes,16612.1129
+27,Male,Other driver error,426,Auto,No,Material only,1,Yes,21113.94544
+72,Male,Other driver error,4914,Auto,No,Material only,1,Yes,24673.87544
+66,Male,Other driver error,3259,Auto,No,Injury only,4,Yes,7521.516055
+36,Male,Driver error,3094,Auto,No,Material only,5,No,38606.27795
+31,Male,Other causes,712,Auto,No,Material only,1,No,98196.99196
+48,Male,Driver error,3404,Auto,No,Material only,1,Yes,23473.88204
+32,Male,Driver error,748,Home,Yes,Injury only,5,No,93498.30436
+56,Male,Other causes,3509,Auto,Unknown,Material and injury,3,Yes,19018.24593
+24,Male,Other driver error,251,Auto,Unknown,Injury only,1,Yes,19777.98472
+36,Male,Other causes,406,Auto,Unknown,Material and injury,1,No,77618.18452
+52,Male,Crime,72,Auto,No,Material only,1,No,23073.23478
+36,Male,Other driver error,4828,Auto,Unknown,Injury only,1,No,43573.93002
+33,Male,Crime,2156,Auto,No,Material only,1,No,86947.82477
+61,Male,Other driver error,4342,Auto,No,Material only,4,Yes,19435.65782
+41,Male,Other driver error,821,Auto,Unknown,Material only,1,No,11543.37985
+36,Male,Other causes,102,Home,Yes,Injury only,1,No,82171.11652
+25,Male,Other causes,1027,Auto,Unknown,Material only,1,Yes,13338.64055
+56,Male,Crime,1517,Auto,No,Material only,1,Yes,13479.19626
+78,Male,Driver error,3268,Auto,No,Injury only,6,Yes,95958.50657
+44,Male,Natural causes,891,Auto,No,Material and injury,1,Yes,15517.87177
+23,Male,Driver error,202,Auto,No,Material and injury,1,No,21656.1725
+75,Male,Driver error,8260,Auto,Yes,Injury only,1,Yes,41116.55258
+77,Male,Other causes,3,Auto,Unknown,Injury only,2,Yes,3492.565399
+30,Male,Other driver error,7,Auto,Unknown,Material and injury,1,No,51992.42491
+51,Male,Other driver error,1798,Auto,Yes,Injury only,1,Yes,23942.42678
+67,Male,Other causes,4551,Auto,Unknown,Material only,1,No,653.0846938
+68,Male,Other causes,3310,Auto,No,Material only,1,Yes,34920.58115
+36,Male,Other driver error,2456,Auto,No,Material only,1,No,81324.97923
+49,Male,Crime,7447,Auto,No,Material only,1,Yes,11490.50512
+59,Male,Crime,2572,Auto,No,Material only,2,Yes,13132.29758
+33,Male,Other driver error,389,Auto,Unknown,Material and injury,1,No,71748.53452
+69,Male,Other driver error,2847,Auto,No,Material and injury,1,Yes,3935.318552
+54,Male,Other causes,1600,Auto,No,Injury only,4,Yes,12386.68005
+40,Male,Other causes,2293,Auto,Unknown,Material only,1,No,83122.34037
+36,Male,Crime,2363,Auto,Unknown,Material only,1,No,93719.63552
+72,Male,Driver error,2855,Auto,No,Injury only,1,Yes,4044.521049
+40,Male,Other causes,1897,Auto,Unknown,Injury only,1,No,97564.56003
+45,Male,Other driver error,2468,Auto,No,Material only,1,No,1313.601305
+66,Male,Crime,10163,Auto,Unknown,Material and injury,1,Yes,4125.211733
+28,Male,Crime,1045,Auto,Unknown,Material only,1,Yes,15917.73511
+33,Male,Driver error,1737,Auto,No,Material only,6,No,90494.59643
+54,Male,Other driver error,2620,Auto,Unknown,Injury only,1,Yes,10824.51458
+71,Male,Driver error,5435,Auto,Unknown,Injury only,1,Yes,24661.41303
+45,Male,Crime,1470,Auto,No,Material only,1,No,12567.0208
+32,Male,Driver error,7,Auto,Unknown,Material and injury,1,No,47098.09296
+56,Male,Driver error,1544,Auto,No,Material only,1,No,15193.70114
+64,Male,Driver error,2603,Auto,Yes,Material only,1,Yes,13530.2919
+37,Male,Other causes,2750,Auto,Yes,Material and injury,1,No,45092.31544
+42,Male,Other driver error,1487,Auto,Unknown,Material and injury,1,Yes,20339.74395
+69,Male,Driver error,5146,Auto,No,Material only,1,Yes,16782.0107
+75,Male,Driver error,5708,Auto,Yes,Material and injury,1,Yes,23869.70915
+37,Male,Other driver error,2930,Auto,No,Material and injury,1,No,99499.74572
+75,Male,Natural causes,4889,Auto,No,Material only,1,Yes,10220.73936
+21,Male,Driver error,198,Auto,Unknown,Material only,1,Yes,23722.35643
+39,Male,Other driver error,191,Auto,Yes,Injury only,1,No,40344.96676
+45,Male,Other driver error,532,Auto,Unknown,Material and injury,1,Yes,1400.661339
+18,Male,Other driver error,3,Auto,No,Material only,1,No,21848.37689
+64,Male,Driver error,3801,Home,No,Injury only,1,Yes,21742.00304
+79,Male,Driver error,5075,Auto,No,Injury only,1,No,20556.71275
+44,Male,Other driver error,4191,Auto,No,Material and injury,1,No,10884.8629
+46,Male,Other causes,5460,Auto,Yes,Material and injury,1,No,13771.46519
+36,Male,Driver error,420,Auto,No,Material only,1,No,97695.41513
+73,Male,Crime,1475,Home,No,Material only,1,Yes,2447.542827
+40,Male,Driver error,441,Auto,No,Injury only,1,No,47457.46091
+49,Male,Other driver error,1431,Auto,Yes,Material and injury,5,Yes,18270.10042
+76,Male,Crime,4843,Home,No,Material only,1,Yes,17605.08347
+70,Male,Driver error,1859,Auto,No,Material only,1,Yes,16393.21891
+22,Male,Other driver error,349,Auto,No,Material only,1,Yes,17073.37903
+66,Male,Natural causes,3154,Auto,No,Injury only,3,Yes,22753.49071
+35,Male,Natural causes,1410,Auto,No,Material only,1,No,57090.92391
+34,Male,Natural causes,911,Auto,No,Material only,1,No,51521.35778
+41,Male,Driver error,4,Auto,No,Material only,1,Yes,13453.46471
+70,Male,Driver error,2513,Auto,No,Material and injury,4,Yes,11359.8774
+42,Male,Driver error,1678,Auto,No,Material only,1,Yes,60515.43224
+55,Male,Other causes,5444,Auto,No,Injury only,1,No,4659.777646
+62,Male,Other driver error,2060,Auto,No,Material only,1,No,43313.87698
+62,Male,Driver error,2199,Auto,No,Material only,1,No,8164.192139
+25,Male,Natural causes,8,Auto,No,Material only,1,Yes,23196.39525
+63,Male,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,23521.95216
+28,Male,Driver error,5,Auto,Unknown,Material only,1,Yes,1470.660729
+67,Male,Crime,3386,Auto,Unknown,Material only,1,Yes,15593.7677
+73,Male,Driver error,4196,Auto,No,Material only,4,Yes,20876.895
+55,Male,Natural causes,622,Auto,No,Material only,3,Yes,7348.689148
+47,Male,Crime,2335,Auto,No,Material only,1,Yes,8982.549825
+26,Male,Other driver error,1203,Auto,Unknown,Material only,1,Yes,43718.07105
+78,Male,Other driver error,14991,Auto,Unknown,Material only,1,Yes,586.9554572
+36,Male,Other driver error,2116,Auto,No,Injury only,3,No,58774.40766
+52,Male,Crime,72,Auto,No,Material only,1,Yes,13824.80286
+36,Male,Other causes,406,Auto,Unknown,Material and injury,1,No,91990.24322
+28,Female,Driver error,5,Auto,Unknown,Material only,1,Yes,18533.16043
+26,Female,Other driver error,1203,Auto,Unknown,Material only,1,Yes,3711.673484
+25,Female,Natural causes,8,Auto,No,Material only,1,Yes,19609.43989
+55,Female,Natural causes,622,Auto,No,Material only,3,No,13574.66414
+73,Female,Driver error,4196,Auto,No,Material only,4,Yes,80041.4605
+67,Female,Crime,3386,Auto,Unknown,Material only,1,Yes,84460.16487
+47,Female,Crime,2335,Auto,No,Material only,1,Yes,13827.26724
+36,Female,Other driver error,2116,Auto,No,Injury only,3,No,91424.5078
+63,Female,Other driver error,9211,Auto,Unknown,Material and injury,1,Yes,20527.54208
+78,Female,Other driver error,14991,Auto,Unknown,Material only,1,Yes,16073.23095
+69,Male,Other driver error,5538,Auto,No,Injury only,1,No,17187.14225
+25,Male,Other causes,932,Auto,Unknown,Material only,4,Yes,59171.70365
+32,Male,Other driver error,1532,Auto,No,Material only,3,No,79647.74885
+36,Male,Other driver error,2396,Auto,No,Material only,1,No,99007.57782
+18,Male,Other causes,4,Auto,No,Material only,1,Yes,18843.3073
+30,Male,Other causes,782,Auto,No,Material and injury,1,No,88897.33184
+29,Male,Other causes,394,Auto,Unknown,Material and injury,1,Yes,6627.152722
+24,Male,Natural causes,64,Auto,No,Material only,1,Yes,88625.72595
+61,Male,Other driver error,4342,Auto,No,Material only,4,Yes,1813.133314
+41,Male,Other driver error,821,Auto,Unknown,Material only,1,Yes,15247.79646
+24,Male,Other causes,426,Auto,No,Material only,1,No,4607.856948
+22,Male,Crime,103,Auto,Unknown,Material only,1,Yes,15111.39937
+36,Male,Other causes,102,Home,Yes,Injury only,1,No,67236.55234
+56,Male,Other causes,2004,Auto,No,Material only,3,Yes,13695.62372
+29,Male,Other causes,2,Auto,No,Material only,3,Yes,33780.00878
+43,Male,Natural causes,1068,Auto,No,Material only,1,Yes,10878.50803
+27,Male,Other driver error,426,Auto,No,Material only,1,Yes,4456.28644
+24,Male,Other driver error,251,Auto,Unknown,Injury only,1,No,7779.209222
+41,Male,Other causes,2353,Auto,No,Injury only,1,No,22935.4464
+53,Male,Crime,2613,Auto,Unknown,Material only,1,No,79768.9537
+25,Male,Other causes,1027,Auto,Unknown,Material only,1,Yes,6884.123907
+76,Male,Other causes,5242,Auto,No,Material only,1,No,23328.37673
+79,Male,Driver error,1793,Auto,No,Material only,1,Yes,1948.716507
+78,Male,Natural causes,4323,Auto,No,Material only,4,Yes,27469.7134
+18,Male,Driver error,7,Auto,No,Material only,1,Yes,14373.64247
+73,Male,Other causes,4837,Auto,Unknown,Material only,1,Yes,20642.19862
+77,Male,Other driver error,3460,Auto,No,Injury only,1,No,47625.09762
+55,Male,Natural causes,3197,Auto,No,Material only,4,No,19904.29552
+78,Male,Other causes,5309,Auto,Unknown,Material only,2,Yes,12280.26076
+75,Male,Driver error,3530,Auto,Unknown,Material and injury,3,No,639.4461348
+48,Male,Driver error,3300,Auto,No,Material only,1,Yes,10627.61116
+19,Male,Crime,8,Auto,No,Material and injury,1,Yes,61099.39711
+67,Male,Other causes,3890,Auto,No,Material only,2,Yes,7308.099545
+49,Male,Other causes,4008,Auto,Yes,Material only,2,Yes,90731.95878
+18,Male,Natural causes,5,Auto,No,Material only,1,Yes,4555.144421
+25,Male,Natural causes,447,Auto,Unknown,Material only,1,Yes,24138.2163
+43,Male,Other causes,2509,Home,Unknown,Material only,1,Yes,88374.34733
+52,Male,Other causes,2810,Auto,Unknown,Material and injury,4,No,5321.718686
+55,Male,Other causes,2972,Auto,No,Material only,1,Yes,20407.58562
+41,Male,Other causes,896,Auto,No,Material only,1,No,63287.29737
+66,Male,Crime,7121,Home,No,Material only,1,Yes,22007.37221
+52,Male,Crime,2294,Home,No,Material only,1,Yes,24945.09344
+76,Male,Other driver error,398,Auto,Unknown,Material only,1,Yes,86810.12713
+61,Male,Other driver error,3201,Auto,Yes,Material and injury,1,Yes,13966.09482
+67,Male,Natural causes,10652,Auto,No,Material only,1,Yes,24975.69452
+54,Male,Crime,954,Auto,No,Material only,3,Yes,8397.672364
+37,Male,Crime,2154,Auto,Yes,Injury only,1,No,90283.80194
+52,Male,Other driver error,1396,Auto,Unknown,Material only,1,Yes,13490.47202
+21,Male,Natural causes,26,Auto,Yes,Injury only,1,Yes,9969.309395
+43,Male,Natural causes,226,Auto,No,Material only,3,Yes,233.0523695
+24,Male,Other causes,4,Auto,Unknown,Injury only,1,Yes,574.7069822
+41,Male,Other causes,2135,Auto,No,Material only,1,No,6054.847207
+20,Male,Natural causes,6,Auto,Yes,Material only,4,Yes,10768.79186
+72,Male,Other causes,4515,Auto,No,Material only,1,Yes,16800.59046
+73,Male,Other causes,3936,Auto,Yes,Material and injury,2,Yes,23843.1953
+28,Male,Natural causes,203,Home,No,Material only,1,Yes,2846.164781
+37,Male,Natural causes,662,Auto,Unknown,Material only,4,No,87264.59539
+49,Male,Other driver error,2258,Auto,Unknown,Material only,4,Yes,14401.84384
